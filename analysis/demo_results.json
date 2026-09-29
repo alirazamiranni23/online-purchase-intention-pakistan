@@ -1,0 +1,15 @@
+{
+  "rows_total": 300,
+  "complete_cases": 294,
+  "r_squared": 0.379,
+  "coefficients": {
+    "perceived_risk": -0.429,
+    "payment_trust": 0.368,
+    "delivery_reliability": 0.307
+  },
+  "p_values": {
+    "perceived_risk": 4.36e-21,
+    "payment_trust": 1.3e-11,
+    "delivery_reliability": 2.75e-7
+  }
+}
