@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="432pt" viewBox="0 0 720 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata><rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><cc:Work><dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/><dc:date>2026-09-29T12:13:58.581455</dc:date><dc:format>image/svg+xml</dc:format><dc:creator><cc:Agent><dc:title>Matplotlib v3.10.8</dc:title></cc:Agent></dc:creator></cc:Work></rdf:RDF></metadata>
+ <defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style></defs>
+ <g id="figure_1"><g id="patch_1"><path d="M 0 432 L 720 432 L 720 0 L 0 0 z" style="fill: #ffffff"/></g>
+ <g id="axes_1"><g id="patch_2"><path d="M 116.98 390.04 L 701.325 390.04 L 701.325 26.88 L 116.98 26.88 z" style="fill: #ffffff"/></g>
+ <g id="patch_3"><path d="M -29.10625 373.532727 L 417.33333 373.532727 L 417.33333 339.671655 L -29.10625 339.671655 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="patch_4"><path d="M -29.10625 331.206387 L 448.420484 331.206387 L 448.420484 297.345315 L -29.10625 297.345315 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="patch_5"><path d="M -29.10625 288.880047 L 465.483358 288.880047 L 465.483358 255.018974 L -29.10625 255.018974 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="patch_6"><path d="M -29.10625 246.553706 L 468.75569 246.553706 L 468.75569 212.692634 L -29.10625 212.692634 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="patch_7"><path d="M -29.10625 204.227366 L 472.26176 204.227366 L 472.26176 170.366294 L -29.10625 170.366294 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="patch_8"><path d="M -29.10625 161.901026 L 475.066616 161.901026 L 475.066616 128.039953 L -29.10625 128.039953 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="patch_9"><path d="M -29.10625 119.574685 L 490.843931 119.574685 L 490.843931 85.713613 L -29.10625 85.713613 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="patch_10"><path d="M -29.10625 77.248345 L 494.233132 77.248345 L 494.233132 43.387273 L -29.10625 43.387273 z" clip-path="url(#pba5b36528e)" style="fill: #1f77b4"/></g>
+ <g id="matplotlib.axis_1"><g id="xtick_1"><text x="109" y="404" font-family="DejaVu Sans" font-size="10">1.0</text></g><g id="xtick_2"><text x="182" y="404" font-family="DejaVu Sans" font-size="10">1.5</text></g><g id="xtick_3"><text x="255" y="404" font-family="DejaVu Sans" font-size="10">2.0</text></g><g id="xtick_4"><text x="328" y="404" font-family="DejaVu Sans" font-size="10">2.5</text></g><g id="xtick_5"><text x="401" y="404" font-family="DejaVu Sans" font-size="10">3.0</text></g><g id="xtick_6"><text x="474" y="404" font-family="DejaVu Sans" font-size="10">3.5</text></g><g id="xtick_7"><text x="547" y="404" font-family="DejaVu Sans" font-size="10">4.0</text></g><g id="xtick_8"><text x="620" y="404" font-family="DejaVu Sans" font-size="10">4.5</text></g><g id="xtick_9"><text x="694" y="404" font-family="DejaVu Sans" font-size="10">5.0</text></g>
+ <g id="yt"><text x="8" y="374" font-family="DejaVu Sans" font-size="10">Perceived Risk</text><text x="21" y="332" font-family="DejaVu Sans" font-size="10">Digital Interaction</text><text x="31" y="289" font-family="DejaVu Sans" font-size="10">Purchase Intention</text><text x="37" y="247" font-family="DejaVu Sans" font-size="10">Perceived Value</text><text x="45" y="204" font-family="DejaVu Sans" font-size="10">Delivery Reliability</text><text x="47" y="162" font-family="DejaVu Sans" font-size="10">Payment Trust</text><text x="17" y="120" font-family="DejaVu Sans" font-size="10">Product Information</text><text x="38" y="77" font-family="DejaVu Sans" font-size="10">Convenience</text></g></g>
+ <text x="238" y="20" font-family="DejaVu Sans" font-size="14" font-weight="700">Construct Mean Scores — Synthetic 250-Response Demo</text>
+ </g></g>
+ <defs><clipPath id="pba5b36528e"><rect x="116.98" y="26.88" width="584.345" height="363.16"/></clipPath></defs>
+</svg>
