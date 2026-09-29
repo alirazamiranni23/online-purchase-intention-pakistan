@@ -127,6 +127,20 @@ The complete synthetic 250-response analysis is visualized in [`demo/visualizati
 - [Multiple regression coefficients](demo/visualizations/regression_coefficients.svg)
 - [Visualization index](demo/visualizations/README.md)
 
+## Final Visualization Gallery
+
+The repository now contains a dedicated visualization folder with the main portfolio charts:
+
+| Visualization | Preview |
+|---|---|
+| Construct mean scores | [Open SVG](demo/visualizations/construct_mean_scores.svg) |
+| Purchase intention distribution | [Open SVG](demo/visualizations/purchase_intention_distribution.svg) |
+| Spearman correlation matrix | [Open SVG](demo/visualizations/spearman_correlation_matrix.svg) |
+| Respondent gender profile | [Open SVG](demo/visualizations/respondent_gender_profile.svg) |
+| Regression coefficients | [Open SVG](demo/visualizations/regression_coefficients.svg) |
+
+All charts in this gallery are based on the **synthetic 250-response demonstration dataset**.
+
 ## Replace With the Real Dataset
 
 1. Keep the demo CSV as a reference.
