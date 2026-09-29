@@ -1,1 +1,5 @@
-Synthetic 250-response demo: 250 fully completed questionnaire records generated for demonstration only. Full compressed response data: synthetic_250_responses.csv.gz. All values are synthetic and must be replaced by original survey data before academic reporting.
+# Analysis Outputs
+
+This folder contains the portfolio analysis report, summary outputs, and final figures generated from the current 250-response illustrative dataset.
+
+The data are included for workflow demonstration and are not the original respondent records.
