@@ -116,6 +116,17 @@ A fully completed **synthetic** 250-response dataset is included for demonstrati
 
 The conversation package also includes a 250-page visual PDF with each synthetic respondent's questionnaire shown with randomly selected options marked.
 
+## Final Data Visualization Gallery
+
+The complete synthetic 250-response analysis is visualized in [`demo/visualizations/`](demo/visualizations/):
+
+- [Construct mean scores](demo/visualizations/construct_mean_scores.svg)
+- [Purchase intention distribution](demo/visualizations/purchase_intention_distribution.svg)
+- [Spearman correlation matrix](demo/visualizations/spearman_correlation_matrix.svg)
+- [Synthetic respondent profile](demo/visualizations/respondent_gender_profile.svg)
+- [Multiple regression coefficients](demo/visualizations/regression_coefficients.svg)
+- [Visualization index](demo/visualizations/README.md)
+
 ## Replace With the Real Dataset
 
 1. Keep the demo CSV as a reference.
