@@ -1,0 +1,34 @@
+{
+  "n": 250,
+  "complete_cases": 250,
+  "r_squared": 0.4120102797,
+  "adjusted_r_squared": 0.3950023125,
+  "reliability": {
+    "perceived_risk": 0.926,
+    "payment_trust": 0.922,
+    "delivery_reliability": 0.918,
+    "product_information": 0.895,
+    "convenience": 0.901,
+    "digital_interaction": 0.924,
+    "perceived_value": 0.912,
+    "purchase_intention": 0.941
+  },
+  "spearman_with_purchase_intention": {
+    "perceived_risk": -0.206,
+    "payment_trust": 0.366,
+    "delivery_reliability": 0.42,
+    "product_information": 0.056,
+    "convenience": 0.097,
+    "digital_interaction": 0.136,
+    "perceived_value": 0.37
+  },
+  "regression_coefficients_B": {
+    "perceived_risk": -0.368,
+    "payment_trust": 0.365,
+    "delivery_reliability": 0.394,
+    "product_information": -0.106,
+    "convenience": -0.09,
+    "digital_interaction": -0.024,
+    "perceived_value": 0.285
+  }
+}
