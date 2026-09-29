@@ -1,9 +1,23 @@
 # Reproducibility
 
-## Demo mode
+## Portfolio build
 
-Install dependencies with pip install -r requirements.txt and run python scripts/run_demo_analysis.py. Then open the Jupyter notebook.
+Install dependencies:
 
-## Original-data mode
+```bash
+pip install -r requirements.txt
+```
 
-Replace the synthetic CSV with the original anonymized respondent-level dataset, map the actual variable names, and rerun the notebook from the first cell. Replace demo figures/results only after verifying that the outputs reproduce the intended analysis.
+Run:
+
+```bash
+python scripts/run_demo_analysis.py
+```
+
+Then open `notebooks/purchase_intention_analysis.ipynb`.
+
+## Original-data workflow
+
+Replace the illustrative response file with the original anonymized respondent-level dataset, verify the variable mapping, rerun the notebook from the first cell, and regenerate the figures and statistical report.
+
+Keep direct identifiers out of the published dataset.
