@@ -1,0 +1,301 @@
+respondent_id,age,gender,income_group,online_purchase_frequency,perceived_risk,payment_trust,delivery_reliability,product_information,convenience,digital_interaction,perceived_value,purchase_intention
+DEMO_001,29,Male,100k-200k,Rarely,3,3,3,4,3,4,2,3
+DEMO_002,39,Female,100k-200k,Weekly,3,4,3,3,3,3,3,3
+DEMO_003,21,Male,50k-100k,Monthly,3,3,2,2,3,4,3,2
+DEMO_004,36,Male,50k-100k,Several times/month,4,3,3,3,4,2,2,2
+DEMO_005,32,Male,Below 50k,Weekly,3,3,4,3,3,2,2,3
+DEMO_006,36,Female,Below 50k,Monthly,3,3,2,3,3,3,4,3
+DEMO_007,29,Male,50k-100k,Monthly,4,2,3,4,2,3,2,2
+DEMO_008,25,Female,50k-100k,Rarely,3,4,3,3,4,3,4,3
+DEMO_009,32,Female,50k-100k,Rarely,3,3,2,3,3,2,2,1
+DEMO_010,27,Male,Below 50k,Rarely,2,3,3,3,3,2,4,2
+DEMO_011,21,Female,50k-100k,Weekly,2,3,3,4,3,3,4,3
+DEMO_012,30,Female,100k-200k,Weekly,3,3,2,3,2,4,3,2
+DEMO_013,24,Male,50k-100k,Weekly,3,4,4,2,3,4,4,4
+DEMO_014,42,Male,50k-100k,Weekly,3,3,4,2,4,2,3,2
+DEMO_015,23,Male,50k-100k,Monthly,3,3,2,3,2,2,3,2
+DEMO_016,20,Male,100k-200k,Rarely,3,3,3,3,2,3,3,2
+DEMO_017,39,Male,100k-200k,Rarely,4,3,3,4,2,4,3,2
+DEMO_018,30,Male,Below 50k,Monthly,3,3,2,2,4,3,3,2
+DEMO_019,37,Male,Below 50k,Weekly,4,2,2,4,3,4,2,1
+DEMO_020,38,Female,Below 50k,Monthly,4,3,4,4,2,4,4,2
+DEMO_021,26,Female,50k-100k,Monthly,2,2,3,2,4,3,2,2
+DEMO_022,26,Male,Below 50k,Monthly,3,3,3,3,3,3,3,2
+DEMO_023,18,Female,Below 50k,Rarely,4,4,2,3,4,3,3,2
+DEMO_024,34,Male,100k-200k,Weekly,3,3,3,2,2,3,3,2
+DEMO_025,39,Female,50k-100k,Weekly,2,4,4,3,2,3,3,4
+DEMO_026,37,Female,50k-100k,Monthly,2,4,2,3,4,3,3,3
+DEMO_027,26,Female,100k-200k,Monthly,2,4,3,4,2,3,2,4
+DEMO_028,26,Female,Above 200k,Rarely,3,3,4,2,3,3,3,2
+DEMO_029,38,Other/Prefer not to say,100k-200k,Rarely,2,4,4,3,3,2,4,4
+DEMO_030,26,Male,Above 200k,Rarely,3,3,2,4,3,4,2,3
+DEMO_031,26,Female,Below 50k,Monthly,3,2,2,3,2,4,3,1
+DEMO_032,21,Male,50k-100k,Weekly,4,4,3,3,3,3,2,3
+DEMO_033,44,Female,Below 50k,Weekly,4,3,3,2,3,4,3,2
+DEMO_034,36,Female,50k-100k,Weekly,3,2,3,3,4,3,2,2
+DEMO_035,39,Male,Below 50k,Monthly,4,3,3,4,2,2,3,2
+DEMO_036,30,Male,Below 50k,Monthly,4,4,3,3,3,3,3,3
+DEMO_037,42,Female,50k-100k,Rarely,3,3,2,4,3,4,4,3
+DEMO_038,24,Female,100k-200k,Monthly,3,4,2,3,3,3,3,3
+DEMO_039,21,Male,100k-200k,Weekly,3,3,4,4,2,2,4,2
+DEMO_040,29,Female,Below 50k,Several times/month,3,3,3,2,4,3,3,2
+DEMO_041,37,Male,100k-200k,Rarely,2,2,3,3,3,2,3,2
+DEMO_042,33,Male,Below 50k,Weekly,2,2,4,3,4,4,4,3
+DEMO_043,24,Female,Below 50k,Monthly,4,4,4,3,4,2,2,2
+DEMO_044,35,Male,Below 50k,Rarely,3,4,2,4,4,3,2,3
+DEMO_045,24,Male,Below 50k,Weekly,4,3,3,3,3,2,3,2
+DEMO_046,33,Female,100k-200k,Weekly,4,3,2,4,3,3,4,2
+DEMO_047,24,Male,Below 50k,Rarely,2,3,3,3,3,4,2,3
+DEMO_048,39,Female,Below 50k,Monthly,4,3,3,2,3,2,2,1
+DEMO_049,19,Female,100k-200k,Several times/month,4,2,3,2,2,3,3,2
+DEMO_050,42,Male,50k-100k,Monthly,4,3,3,2,3,3,3,2
+DEMO_051,20,Male,Below 50k,Monthly,4,3,3,3,2,3,3,2
+DEMO_052,18,Male,Below 50k,Weekly,3,3,3,4,3,3,3,3
+DEMO_053,36,Female,Above 200k,Several times/month,3,3,3,3,4,3,3,2
+DEMO_054,41,Male,50k-100k,Weekly,4,2,3,2,2,3,2,1
+DEMO_055,29,Female,Below 50k,Rarely,3,4,3,4,3,2,3,3
+DEMO_056,26,Female,Below 50k,Monthly,3,3,4,3,4,3,4,3
+DEMO_057,24,Female,100k-200k,Rarely,2,3,4,3,4,3,3,4
+DEMO_058,30,Female,50k-100k,Rarely,3,3,3,4,3,4,3,3
+DEMO_059,37,Male,50k-100k,Weekly,2,3,3,2,4,3,3,3
+DEMO_060,21,Male,100k-200k,Several times/month,2,3,2,3,3,3,3,2
+DEMO_061,39,Female,50k-100k,Rarely,3,3,3,2,4,3,3,3
+DEMO_062,42,Female,50k-100k,Monthly,4,3,2,2,4,2,3,1
+DEMO_063,20,Female,Below 50k,Weekly,3,2,3,3,3,3,2,2
+DEMO_064,18,Female,Below 50k,Monthly,3,3,3,2,3,3,4,2
+DEMO_065,35,Male,100k-200k,Monthly,2,2,4,3,3,4,2,3
+DEMO_066,22,Male,50k-100k,Weekly,3,4,2,3,4,3,3,3
+DEMO_067,36,Female,100k-200k,Rarely,2,3,3,4,3,4,3,3
+DEMO_068,21,Female,100k-200k,Weekly,3,3,2,2,3,3,2,2
+DEMO_069,35,Male,Below 50k,Monthly,4,4,4,3,4,3,3,2
+DEMO_070,21,Female,50k-100k,Weekly,3,4,4,3,3,3,3,3
+DEMO_071,24,Female,50k-100k,Monthly,3,3,3,4,4,4,3,3
+DEMO_072,21,Female,100k-200k,Weekly,3,4,4,3,4,2,3,3
+DEMO_073,20,Female,Below 50k,Weekly,2,3,4,3,2,2,3,3
+DEMO_074,41,Male,50k-100k,Weekly,2,4,3,3,3,3,4,4
+DEMO_075,42,Male,Below 50k,Weekly,3,3,3,3,3,3,3,2
+DEMO_076,18,Male,Below 50k,Weekly,3,2,3,2,3,4,2,2
+DEMO_077,31,Male,Below 50k,Monthly,4,4,3,3,2,2,4,2
+DEMO_078,25,Female,50k-100k,Weekly,3,4,3,4,3,2,3,3
+DEMO_079,42,Male,Below 50k,Monthly,3,3,3,3,4,3,3,2
+DEMO_080,30,Female,Below 50k,Monthly,3,3,3,3,2,2,3,3
+DEMO_081,30,Male,50k-100k,Monthly,3,4,3,3,2,3,2,3
+DEMO_082,37,Male,Below 50k,Weekly,3,3,4,4,3,4,2,2
+DEMO_083,45,Male,Below 50k,Monthly,3,2,2,3,4,4,3,2
+DEMO_084,38,Male,50k-100k,Monthly,3,3,3,3,3,2,2,2
+DEMO_085,43,Female,100k-200k,Weekly,4,3,3,2,2,4,3,2
+DEMO_086,30,Male,50k-100k,Weekly,2,2,3,3,3,3,3,2
+DEMO_087,19,Male,Below 50k,Monthly,3,3,3,3,3,3,4,3
+DEMO_088,34,Male,100k-200k,Rarely,4,2,4,3,3,3,2,2
+DEMO_089,19,Male,Above 200k,Weekly,3,3,2,3,4,3,3,2
+DEMO_090,27,Female,Below 50k,Monthly,3,3,3,3,3,2,2,2
+DEMO_091,40,Female,100k-200k,Weekly,2,3,3,4,3,2,4,3
+DEMO_092,40,Male,Below 50k,Monthly,2,4,2,3,3,3,3,3
+DEMO_093,40,Male,Below 50k,Monthly,2,2,3,3,3,3,3,2
+DEMO_094,22,Female,Below 50k,Rarely,3,3,2,2,2,4,2,1
+DEMO_095,36,Male,Below 50k,Rarely,2,3,3,3,4,3,2,2
+DEMO_096,21,Other/Prefer not to say,Below 50k,Rarely,4,3,2,3,2,2,3,2
+DEMO_097,27,Female,Below 50k,Monthly,3,3,,4,4,3,3,4
+DEMO_098,36,Female,50k-100k,Monthly,3,3,2,4,3,3,3,2
+DEMO_099,44,Female,100k-200k,Monthly,4,3,3,4,3,4,3,3
+DEMO_100,31,Female,50k-100k,Several times/month,3,3,4,3,3,2,3,2
+DEMO_101,42,Male,100k-200k,Monthly,4,3,3,3,4,3,3,2
+DEMO_102,31,Female,50k-100k,Rarely,4,3,3,3,4,2,3,2
+DEMO_103,21,Female,50k-100k,Rarely,4,3,4,2,3,3,3,3
+DEMO_104,20,Female,Below 50k,Monthly,2,2,3,3,4,3,4,2
+DEMO_105,21,Male,50k-100k,Weekly,3,2,2,3,3,2,3,1
+DEMO_106,30,Male,Below 50k,Weekly,2,4,2,3,2,3,3,3
+DEMO_107,23,Male,50k-100k,Monthly,2,2,3,3,2,2,4,3
+DEMO_108,39,Female,Below 50k,Weekly,3,2,4,3,4,4,3,2
+DEMO_109,21,Male,50k-100k,Monthly,4,3,2,3,3,3,3,2
+DEMO_110,25,Male,Below 50k,Monthly,2,2,4,4,2,3,3,2
+DEMO_111,38,Male,100k-200k,Several times/month,4,3,2,3,4,4,3,1
+DEMO_112,19,Male,50k-100k,Weekly,3,4,3,3,4,3,3,3
+DEMO_113,34,Female,Below 50k,Weekly,2,,3,3,3,3,2,2
+DEMO_114,26,Male,Below 50k,Monthly,2,3,3,3,2,3,3,2
+DEMO_115,35,Female,Below 50k,Rarely,3,3,4,3,3,4,3,2
+DEMO_116,28,Male,Below 50k,Monthly,3,3,4,3,4,3,3,2
+DEMO_117,31,Male,Below 50k,Rarely,4,2,3,3,4,3,3,1
+DEMO_118,24,Male,Below 50k,Weekly,4,3,3,4,3,3,3,2
+DEMO_119,37,Female,Below 50k,Weekly,3,4,3,3,3,2,3,3
+DEMO_120,31,Female,50k-100k,Several times/month,2,3,4,2,4,4,3,3
+DEMO_121,39,Female,100k-200k,Monthly,3,2,4,3,3,2,4,2
+DEMO_122,30,Female,50k-100k,Weekly,3,2,4,3,3,2,2,2
+DEMO_123,41,Male,Below 50k,Rarely,2,2,3,3,3,3,3,2
+DEMO_124,32,Female,Below 50k,Monthly,2,2,2,2,2,2,3,1
+DEMO_125,28,Female,50k-100k,Monthly,3,3,4,2,3,3,4,2
+DEMO_126,18,Female,Below 50k,Monthly,4,3,3,3,2,2,3,2
+DEMO_127,42,Male,50k-100k,Weekly,4,3,3,3,2,3,3,2
+DEMO_128,19,Female,50k-100k,Monthly,2,4,3,3,3,3,4,4
+DEMO_129,40,Male,Below 50k,Rarely,2,3,3,3,2,4,4,2
+DEMO_130,30,Female,Below 50k,Monthly,3,4,2,3,4,2,4,2
+DEMO_131,35,Female,Below 50k,Weekly,3,3,3,3,3,4,3,3
+DEMO_132,43,Male,Below 50k,Monthly,3,2,4,3,4,2,3,2
+DEMO_133,41,Female,Below 50k,Monthly,3,4,3,3,3,4,3,3
+DEMO_134,29,Female,50k-100k,Rarely,2,2,3,2,2,3,2,2
+DEMO_135,28,Female,Below 50k,Weekly,3,2,2,4,3,3,2,1
+DEMO_136,39,Male,50k-100k,Weekly,4,4,2,2,3,2,3,2
+DEMO_137,19,Male,Below 50k,Monthly,3,2,3,4,2,3,3,2
+DEMO_138,41,Male,Below 50k,Rarely,3,3,2,4,2,4,3,2
+DEMO_139,42,Female,50k-100k,Rarely,3,2,2,3,3,4,3,1
+DEMO_140,33,Male,50k-100k,Monthly,4,2,3,2,4,3,4,2
+DEMO_141,29,Male,50k-100k,Monthly,4,3,2,3,2,3,3,1
+DEMO_142,31,Male,50k-100k,Monthly,3,3,3,2,3,3,3,2
+DEMO_143,32,Female,Below 50k,Monthly,4,4,2,3,3,4,3,3
+DEMO_144,45,Male,Below 50k,Rarely,4,3,4,3,2,3,3,2
+DEMO_145,26,Female,50k-100k,Monthly,3,3,3,4,3,4,3,2
+DEMO_146,21,Male,100k-200k,Monthly,2,2,4,3,2,3,4,2
+DEMO_147,21,Male,50k-100k,Monthly,3,3,4,3,4,2,2,3
+DEMO_148,28,Female,Below 50k,Weekly,4,4,3,2,4,2,3,2
+DEMO_149,19,Female,100k-200k,Monthly,3,3,3,3,4,3,4,2
+DEMO_150,27,Female,50k-100k,Several times/month,3,4,2,4,3,2,2,2
+DEMO_151,24,Female,Below 50k,Monthly,2,4,4,2,3,4,2,3
+DEMO_152,26,Male,Below 50k,Weekly,3,4,3,4,2,4,4,3
+DEMO_153,29,Male,100k-200k,Monthly,4,3,3,3,4,4,3,3
+DEMO_154,25,Male,Below 50k,Rarely,2,2,2,3,3,4,2,2
+DEMO_155,43,Male,50k-100k,Monthly,4,3,4,3,3,2,3,2
+DEMO_156,22,Male,50k-100k,Weekly,3,3,2,3,3,2,4,2
+DEMO_157,34,Male,Above 200k,Monthly,2,3,2,4,2,2,3,2
+DEMO_158,20,Female,50k-100k,Monthly,4,2,3,2,4,4,3,1
+DEMO_159,38,Male,Below 50k,Several times/month,3,4,4,3,4,3,3,4
+DEMO_160,25,Male,Below 50k,Monthly,3,4,4,3,2,2,3,3
+DEMO_161,36,Male,Above 200k,Rarely,3,3,3,2,3,4,2,2
+DEMO_162,19,Male,50k-100k,Monthly,4,4,3,4,3,4,2,3
+DEMO_163,44,Male,50k-100k,Monthly,4,4,3,2,4,2,3,3
+DEMO_164,19,Male,Below 50k,Weekly,2,3,3,2,2,3,4,3
+DEMO_165,32,Male,50k-100k,Monthly,3,2,2,3,2,3,2,1
+DEMO_166,20,Female,50k-100k,Rarely,2,3,2,3,3,2,3,2
+DEMO_167,37,Female,50k-100k,Monthly,2,3,2,2,3,2,3,3
+DEMO_168,18,Male,50k-100k,Monthly,3,3,3,4,3,3,4,3
+DEMO_169,35,Male,Above 200k,Weekly,3,3,2,2,3,2,4,1
+DEMO_170,29,Female,Below 50k,Monthly,3,3,3,4,3,3,3,2
+DEMO_171,43,Male,50k-100k,Weekly,3,3,3,3,2,3,3,3
+DEMO_172,24,Male,100k-200k,Monthly,4,2,2,2,2,4,2,1
+DEMO_173,18,Male,100k-200k,Monthly,3,4,2,3,3,3,2,3
+DEMO_174,25,Male,Below 50k,Weekly,4,3,3,4,3,3,3,2
+DEMO_175,41,Female,Below 50k,Monthly,4,4,3,2,2,3,3,3
+DEMO_176,22,Female,Below 50k,Monthly,2,4,2,2,3,3,3,3
+DEMO_177,29,Female,50k-100k,Weekly,3,3,4,3,3,3,3,3
+DEMO_178,22,Male,Below 50k,Rarely,3,3,2,2,3,2,3,2
+DEMO_179,39,Female,Below 50k,Several times/month,3,4,3,2,4,3,4,2
+DEMO_180,43,Female,Below 50k,Weekly,3,2,2,3,3,3,2,1
+DEMO_181,22,Female,100k-200k,Weekly,3,3,4,3,3,3,2,3
+DEMO_182,42,Female,50k-100k,Monthly,3,3,3,3,3,3,3,2
+DEMO_183,22,Other/Prefer not to say,50k-100k,Monthly,3,4,3,4,4,3,3,3
+DEMO_184,26,Male,50k-100k,Monthly,2,3,2,3,4,4,2,2
+DEMO_185,45,Male,50k-100k,Monthly,4,3,3,4,3,3,3,2
+DEMO_186,30,Male,50k-100k,Monthly,4,4,3,4,2,2,3,2
+DEMO_187,34,Male,100k-200k,Weekly,2,4,3,3,3,3,4,3
+DEMO_188,30,Female,Below 50k,Monthly,3,2,4,4,3,4,3,2
+DEMO_189,28,Male,Above 200k,Monthly,2,3,3,2,2,3,3,2
+DEMO_190,30,Female,Below 50k,Several times/month,3,3,3,3,3,4,3,3
+DEMO_191,32,Female,50k-100k,Monthly,3,3,3,3,4,3,3,2
+DEMO_192,33,Male,50k-100k,Rarely,3,2,4,3,3,3,3,2
+DEMO_193,30,Female,100k-200k,Rarely,3,3,2,3,4,2,3,2
+DEMO_194,37,Female,Below 50k,Monthly,4,4,,3,4,4,3,3
+DEMO_195,27,Male,50k-100k,Monthly,4,4,2,3,3,2,4,2
+DEMO_196,40,Male,Below 50k,Monthly,3,2,3,2,3,3,2,2
+DEMO_197,38,Female,Below 50k,Weekly,3,4,4,2,2,4,4,3
+DEMO_198,33,Female,100k-200k,Rarely,2,2,3,3,2,3,3,3
+DEMO_199,45,Male,Below 50k,Monthly,3,3,2,3,4,4,3,2
+DEMO_200,34,Female,50k-100k,Monthly,3,4,4,3,3,2,3,3
+DEMO_201,42,Male,Below 50k,Rarely,3,3,3,3,3,3,3,2
+DEMO_202,26,Male,50k-100k,Rarely,4,3,3,4,2,4,4,2
+DEMO_203,36,Female,50k-100k,Monthly,3,3,3,2,3,2,4,2
+DEMO_204,39,Female,50k-100k,Monthly,3,2,4,4,3,3,2,2
+DEMO_205,41,Male,Above 200k,Rarely,2,4,3,4,3,3,3,4
+DEMO_206,38,Male,Below 50k,Weekly,3,3,3,3,4,2,3,3
+DEMO_207,45,Female,100k-200k,Weekly,2,3,3,2,4,2,3,3
+DEMO_208,28,Male,Below 50k,Rarely,3,2,2,3,3,3,2,2
+DEMO_209,27,Male,100k-200k,Monthly,2,3,3,2,2,4,3,3
+DEMO_210,43,Female,Below 50k,Several times/month,3,2,3,4,4,3,3,3
+DEMO_211,39,Female,100k-200k,Monthly,3,3,2,2,4,3,2,2
+DEMO_212,35,Male,Below 50k,Weekly,2,3,2,3,3,3,4,2
+DEMO_213,25,Female,Below 50k,Weekly,4,3,3,3,3,3,3,2
+DEMO_214,28,Male,100k-200k,Weekly,4,3,3,3,4,4,4,3
+DEMO_215,45,Female,100k-200k,Rarely,3,3,3,4,3,3,3,3
+DEMO_216,36,Female,50k-100k,Rarely,4,3,3,2,3,2,3,1
+DEMO_217,18,Female,Below 50k,Monthly,3,3,2,2,4,3,2,2
+DEMO_218,27,Female,50k-100k,Weekly,3,4,4,3,3,2,3,3
+DEMO_219,38,Female,Below 50k,Monthly,3,3,3,4,3,3,4,3
+DEMO_220,26,Male,100k-200k,Monthly,3,3,3,2,3,2,4,2
+DEMO_221,40,Female,Below 50k,Monthly,2,2,4,3,2,3,3,2
+DEMO_222,20,Male,50k-100k,Rarely,3,2,3,2,3,3,3,1
+DEMO_223,22,Other/Prefer not to say,100k-200k,Monthly,3,2,3,3,2,3,3,2
+DEMO_224,27,Female,50k-100k,Rarely,3,3,4,3,2,2,2,2
+DEMO_225,42,Female,Below 50k,Weekly,3,4,3,4,4,3,4,3
+DEMO_226,33,Male,Below 50k,Monthly,3,,3,3,3,3,2,2
+DEMO_227,29,Female,Below 50k,Monthly,3,4,2,4,3,2,4,3
+DEMO_228,24,Male,Below 50k,Monthly,3,3,2,3,4,3,3,3
+DEMO_229,45,Female,Below 50k,Monthly,2,3,3,3,4,4,3,3
+DEMO_230,30,Female,100k-200k,Monthly,4,4,4,3,3,3,4,3
+DEMO_231,41,Male,100k-200k,Rarely,3,3,2,2,3,4,3,2
+DEMO_232,30,Male,100k-200k,Monthly,3,4,3,4,4,4,2,3
+DEMO_233,22,Male,Below 50k,Monthly,4,3,2,2,4,2,2,2
+DEMO_234,23,Male,50k-100k,Monthly,3,4,4,3,3,4,3,4
+DEMO_235,33,Male,Below 50k,Weekly,3,3,3,2,4,4,3,2
+DEMO_236,44,Male,100k-200k,Weekly,4,3,3,4,3,3,4,2
+DEMO_237,25,Female,50k-100k,Weekly,4,4,4,2,4,3,4,3
+DEMO_238,32,Female,Below 50k,Monthly,3,3,3,2,3,3,3,3
+DEMO_239,32,Female,50k-100k,Rarely,3,2,4,4,3,3,3,3
+DEMO_240,35,Female,50k-100k,Rarely,4,4,4,4,2,4,3,2
+DEMO_241,38,Female,Below 50k,Monthly,3,3,3,4,3,2,2,2
+DEMO_242,43,Male,Below 50k,Weekly,3,3,3,3,4,2,2,2
+DEMO_243,20,Female,50k-100k,Monthly,2,2,3,3,3,3,2,3
+DEMO_244,25,Male,Above 200k,Monthly,2,3,2,2,4,3,2,3
+DEMO_245,19,Male,50k-100k,Monthly,2,3,4,4,4,4,3,4
+DEMO_246,24,Female,50k-100k,Monthly,3,4,3,4,3,3,3,3
+DEMO_247,32,Male,100k-200k,Rarely,3,4,3,3,3,3,3,3
+DEMO_248,21,Female,Below 50k,Rarely,4,4,4,4,3,3,3,3
+DEMO_249,27,Female,Below 50k,Monthly,3,2,3,3,3,4,3,2
+DEMO_250,24,Male,50k-100k,Monthly,2,3,3,4,4,2,3,3
+DEMO_251,30,Male,Above 200k,Rarely,2,4,3,3,2,3,3,4
+DEMO_252,44,Male,Below 50k,Weekly,3,3,3,3,3,3,2,3
+DEMO_253,45,Female,50k-100k,Monthly,3,3,4,4,3,3,3,3
+DEMO_254,39,Female,Below 50k,Monthly,3,3,4,4,3,4,3,3
+DEMO_255,27,Female,50k-100k,Rarely,3,3,4,3,3,3,2,3
+DEMO_256,36,Male,Above 200k,Monthly,2,4,4,3,4,3,3,4
+DEMO_257,37,Female,Below 50k,Monthly,3,3,3,3,3,3,3,3
+DEMO_258,38,Female,50k-100k,Weekly,4,3,3,2,3,3,4,2
+DEMO_259,37,Male,Below 50k,Rarely,3,3,2,3,4,2,3,2
+DEMO_260,25,Female,Below 50k,Rarely,3,3,3,4,3,2,2,2
+DEMO_261,23,Female,Below 50k,Rarely,4,2,4,2,3,2,3,1
+DEMO_262,24,Female,Below 50k,Monthly,2,4,3,3,2,2,3,3
+DEMO_263,27,Male,50k-100k,Rarely,4,2,3,4,4,4,2,2
+DEMO_264,44,Male,Below 50k,Rarely,2,2,2,4,4,2,2,2
+DEMO_265,25,Male,100k-200k,Rarely,3,3,3,3,2,3,4,2
+DEMO_266,35,Female,50k-100k,Weekly,3,3,2,2,3,4,2,2
+DEMO_267,23,Male,Below 50k,Monthly,3,2,3,3,3,4,2,1
+DEMO_268,42,Male,50k-100k,Monthly,2,2,3,3,2,2,2,2
+DEMO_269,36,Male,100k-200k,Weekly,3,3,3,2,3,4,4,2
+DEMO_270,18,Female,Below 50k,Weekly,4,3,3,3,3,2,2,2
+DEMO_271,23,Female,50k-100k,Rarely,2,3,4,4,4,3,3,3
+DEMO_272,26,Male,Below 50k,Rarely,3,3,4,4,4,4,3,3
+DEMO_273,33,Male,Above 200k,Rarely,3,3,3,2,3,3,3,2
+DEMO_274,27,Female,Below 50k,Monthly,4,2,3,4,2,4,4,2
+DEMO_275,18,Female,50k-100k,Monthly,3,3,3,3,2,2,3,2
+DEMO_276,42,Male,Below 50k,Weekly,4,2,3,4,2,3,4,1
+DEMO_277,39,Male,Below 50k,Rarely,2,2,2,3,2,2,2,2
+DEMO_278,42,Female,Below 50k,Weekly,3,3,4,2,2,3,3,2
+DEMO_279,44,Other/Prefer not to say,50k-100k,Monthly,3,2,2,3,4,3,3,1
+DEMO_280,30,Female,50k-100k,Monthly,3,4,3,3,2,3,4,3
+DEMO_281,42,Male,Below 50k,Rarely,2,3,3,4,3,4,3,4
+DEMO_282,27,Male,Below 50k,Monthly,2,2,3,3,3,2,2,2
+DEMO_283,32,Male,Below 50k,Rarely,4,3,3,3,2,3,3,1
+DEMO_284,39,Male,50k-100k,Weekly,2,4,3,4,4,3,4,4
+DEMO_285,18,Male,50k-100k,Weekly,4,3,2,3,4,2,3,2
+DEMO_286,35,Female,50k-100k,Monthly,3,2,3,3,3,3,3,2
+DEMO_287,18,Female,Below 50k,Rarely,2,4,3,2,2,4,3,3
+DEMO_288,31,Male,Below 50k,Rarely,4,3,3,2,4,2,3,2
+DEMO_289,44,Male,100k-200k,Weekly,3,3,4,2,2,2,3,3
+DEMO_290,34,Male,Below 50k,Rarely,2,2,2,2,3,3,3,2
+DEMO_291,22,Female,Below 50k,Several times/month,3,2,,3,3,2,3,2
+DEMO_292,26,Female,50k-100k,Monthly,4,4,2,3,3,2,3,2
+DEMO_293,19,Female,Above 200k,Weekly,2,2,4,3,3,3,3,3
+DEMO_294,43,Male,50k-100k,Weekly,2,2,4,4,2,3,4,3
+DEMO_295,39,Male,100k-200k,Rarely,3,4,3,4,4,3,3,3
+DEMO_296,37,Female,100k-200k,Weekly,4,2,3,3,2,3,3,2
+DEMO_297,23,Male,Below 50k,Monthly,3,2,2,3,3,2,3,2
+DEMO_298,35,Female,100k-200k,Weekly,2,2,3,2,2,2,3,2
+DEMO_299,22,Male,100k-200k,Weekly,3,3,3,3,3,3,2,2
+DEMO_300,32,Male,50k-100k,Rarely,3,2,2,3,3,3,3,2
