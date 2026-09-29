@@ -1,9 +1,9 @@
 # Data
 
-purchase_intention_data_demo.csv is a **synthetic demonstration dataset** created only to make this portfolio repository runnable before the original anonymized respondent-level data is inserted. It is not the original survey dataset.
+This folder contains the variable definitions and the portfolio dataset used to demonstrate the research workflow.
 
-The demo contains 300 synthetic records and Likert-style constructs. It must not be cited as evidence from the original study.
+The current response file is an **illustrative generated dataset**, not the original respondent file. It is included so the questionnaire, data preparation, statistical analysis, and visualization pipeline can be inspected end to end.
 
 ## Privacy
 
-Before publishing the real dataset, remove names, emails, phone numbers, exact addresses, student IDs, and other direct identifiers.
+When the original dataset is added, remove names, emails, phone numbers, exact addresses, student IDs, and other direct identifiers before publication.
