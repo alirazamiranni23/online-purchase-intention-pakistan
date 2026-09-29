@@ -4,7 +4,7 @@ import pandas as pd
 import statsmodels.formula.api as smf
 
 BASE=Path(__file__).resolve().parents[1]
-DATA=BASE/'data/illustrative_250_responses.csv'
+DATA=BASE/'analysis_outputs/illustrative_250_responses.csv.gz'
 OUT=BASE/'analysis_outputs'
 NUMERIC=['perceived_risk','payment_trust','delivery_reliability','product_information','convenience','digital_interaction','perceived_value','purchase_intention']
 
