@@ -1,0 +1,14 @@
+variable,type,description
+respondent_id,string,Synthetic demo identifier; not a real participant ID
+age,integer,Synthetic age 18-45
+gender,categorical,Synthetic demographic category
+income_group,categorical,Synthetic income group
+online_purchase_frequency,categorical,Synthetic online purchase frequency
+perceived_risk,Likert 1-5,Higher values indicate greater perceived risk
+payment_trust,Likert 1-5,Higher values indicate greater trust in online payment systems
+delivery_reliability,Likert 1-5,Higher values indicate stronger delivery reliability
+product_information,Likert 1-5,Higher values indicate stronger satisfaction with product information
+convenience,Likert 1-5,Higher values indicate greater perceived convenience
+digital_interaction,Likert 1-5,Higher values indicate stronger digital interaction
+perceived_value,Likert 1-5,Higher values indicate greater perceived value
+purchase_intention,Likert 1-5,Higher values indicate stronger online purchase intention
