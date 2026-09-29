@@ -4,132 +4,74 @@
 
 [![Research](https://img.shields.io/badge/Project-Quantitative%20Research-2f80ed)](docs/methodology.md)
 [![Python](https://img.shields.io/badge/Python-analysis-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Demo Data](https://img.shields.io/badge/Data-Synthetic%20Demo-orange)](data/README.md)
+[![Illustrative Dataset](https://img.shields.io/badge/Data-Illustrative%20Portfolio%20Dataset-orange)](data/README.md)
 
-This repository documents an undergraduate research study examining factors associated with **online purchase intention among Pakistani consumers**, including perceived risk, trust in payment systems, delivery reliability, product information, convenience, digital interaction and perceived value.
+This repository presents a quantitative consumer-behavior and e-commerce research project examining factors associated with **online purchase intention among Pakistani consumers**. The study focuses on perceived risk, payment trust, delivery reliability, product information, convenience, digital interaction, perceived value, and purchase intention.
 
-> **Important - Demo build:** The repository currently contains a **synthetic demonstration dataset and synthetic analysis outputs** so the full project can be viewed and run immediately. These are **not the original respondent records or original empirical results**. Replace the demo CSV with the real anonymized survey dataset before using the repository as evidence of the original study.
+> **Data note:** The public repository currently uses generated illustrative responses so the complete questionnaire-to-analysis workflow can be inspected. They are not the original respondent records. Replace them with the original anonymized survey dataset before using the repository as the empirical study record.
 
 ## Research at a Glance
 
 | Item | Detail |
 | --- | --- |
 | Research context | Online purchasing among Pakistani consumers |
-| Original study design | Structured primary questionnaire |
-| Reported original sample | 250+ respondents |
-| Original analysis | SPSS |
-| Reported methods | Correlation and regression |
-| Current repo mode | Synthetic demo data for reproducibility |
+| Study design | Structured primary questionnaire |
+| Portfolio dataset | 250 illustrative responses |
+| Research constructs | 8 multi-item constructs |
+| Analysis workflow | Reliability, descriptive statistics, Spearman correlation, multiple regression |
+| Statistical reporting | Coefficients, p-values, R-squared, adjusted R-squared |
 
 ## Research Question
 
 **What consumer and e-commerce factors are associated with Pakistani consumers' intention to purchase products through online channels?**
 
-## Conceptual Focus
+## Conceptual Framework
 
-Perceived Risk + Trust in Payment Systems + Delivery Reliability + additional consumer/digital factors -> **Online Purchase Intention**
+**Perceived Risk + Payment Trust + Delivery Reliability + Product Information + Convenience + Digital Interaction + Perceived Value → Online Purchase Intention**
+
+## Research Instrument
+
+The questionnaire contains **40 Likert-scale items** across eight constructs, plus respondent-profile questions.
+
+[Open the research questionnaire](questionnaire/questionnaire.pdf)
 
 ## Methodology
 
-The original study workflow was:
+1. Define the research problem and constructs.
+2. Design the questionnaire and coding framework.
+3. Collect and organize respondent-level observations.
+4. Check data quality and missing values.
+5. Assess internal consistency using Cronbach's alpha.
+6. Calculate construct-level descriptive statistics.
+7. Examine rank correlations using Spearman's rho.
+8. Estimate a multiple regression model for purchase intention.
+9. Interpret the statistical results in a consumer-behavior and e-commerce context.
+10. Translate the findings into practical implications.
 
-1. Define the research problem and variables.
-2. Design a structured consumer questionnaire.
-3. Collect and code responses from Pakistani consumers.
-4. Clean and organize the respondent-level dataset.
-5. Examine correlations among key constructs.
-6. Estimate a multiple regression model for purchase intention.
-7. Interpret findings in a consumer-behavior and e-commerce context.
-8. Translate findings into practical recommendations.
+## Statistical Analysis
 
-The current public build reproduces the **workflow**, not the original empirical findings.
+The current portfolio build contains an illustrative 250-response dataset so the complete workflow can be inspected from raw responses through statistical outputs.
 
-## Demo Analysis
+### Reliability
+Cronbach's alpha is calculated for each multi-item construct.
 
-The included synthetic dataset contains **300 rows** with Likert-style construct variables and a small amount of missingness to demonstrate cleaning. The notebook runs data validation, missing-value checks, Spearman correlations, OLS regression with HC3 robust standard errors, and visualization.
+### Correlation
+Spearman rank correlations are used to examine associations among construct scores and purchase intention.
 
 ### Regression
+Purchase intention is modeled as the outcome variable with the seven explanatory constructs as predictors. HC3 robust standard errors are used in the Python workflow.
 
-![Synthetic demo regression results](figures/regression_results.svg)
+## Findings Reported for the Original Study
 
-### Correlation matrix
-
-![Synthetic demo correlation matrix](figures/correlation_matrix.svg)
-
-### Variable distributions
-
-![Synthetic demo variable distributions](figures/variable_distributions.svg)
-
-### Questionnaire preview
-
-![Questionnaire preview](figures/questionnaire_preview.svg)
-
-Full questionnaire: [questionnaire/questionnaire.pdf](questionnaire/questionnaire.pdf)
-
-## Original Study Findings - Owner Reported
-
-The project materials supplied for this portfolio report:
+The project materials supplied for this portfolio report the following original-study statistics:
 
 - **Trust in payment systems:** beta = **0.41**, *p* < **0.01**
 - **Delivery reliability:** beta = **0.33**, *p* < **0.05**
 - **Perceived risk:** *r* = **-0.52** with purchase intention
 
-These values are preserved as **owner-reported original project results**. They are not reproduced by the synthetic demo analysis.
+These values are retained as project-reported findings and are kept separate from the illustrative portfolio dataset.
 
-## Repository Structure
-
-- README.md
-- questionnaire/questionnaire.pdf
-- data/purchase_intention_data_demo.csv
-- data/data_dictionary.csv
-- data/README.md
-- notebooks/purchase_intention_analysis.ipynb
-- analysis/regression_results.pdf
-- analysis/demo_results.json
-- figures/correlation_matrix.svg
-- figures/regression_results.svg
-- figures/variable_distributions.svg
-- figures/questionnaire_preview.svg
-- docs/methodology.md
-- docs/reproducibility.md
-- docs/research_summary.pdf
-- docs/CV_ENTRY.md
-- scripts/run_demo_analysis.py
-- requirements.txt
-- CITATION.cff
-- LICENSE
-
-## Run the Demo
-
-pip install -r requirements.txt
-python scripts/run_demo_analysis.py
-
-Then open notebooks/purchase_intention_analysis.ipynb.
-
-## Synthetic 250-Response Walkthrough
-
-A fully completed **synthetic** 250-response dataset is included for demonstration. Every respondent has values for all 40 Likert items. The dataset is synthetic and must not be presented as the original study data.
-
-- Demo response dataset: [analysis_outputs/synthetic_250_responses.csv.gz](analysis_outputs/synthetic_250_responses.csv.gz)
-- Demo analysis report: [analysis_outputs/analysis_report.md](analysis_outputs/analysis_report.md)
-- Demo analysis summary: [analysis_outputs/analysis_summary.json](analysis_outputs/analysis_summary.json)
-
-The conversation package also includes a 250-page visual PDF with each synthetic respondent's questionnaire shown with randomly selected options marked.
-
-## Final Data Visualization Gallery
-
-The complete synthetic 250-response analysis is visualized in [`analysis_outputs/visualizations/`](analysis_outputs/visualizations/):
-
-- [Construct mean scores](analysis_outputs/visualizations/construct_mean_scores.svg)
-- [Purchase intention distribution](analysis_outputs/visualizations/purchase_intention_distribution.svg)
-- [Spearman correlation matrix](analysis_outputs/visualizations/spearman_correlation_matrix.svg)
-- [Synthetic respondent profile](analysis_outputs/visualizations/respondent_gender_profile.svg)
-- [Multiple regression coefficients](analysis_outputs/visualizations/regression_coefficients.svg)
-- [Visualization index](analysis_outputs/visualizations/README.md)
-
-## Final Visualization Gallery
-
-These visualizations are generated from the **synthetic 250-response demonstration dataset** currently in the repository. They are included to show how the finished research portfolio will look once the real survey data are inserted.
+## Visualization Gallery
 
 ### Construct Mean Scores
 <p><img src="analysis_outputs/visualizations/construct_mean_scores.svg" alt="Construct mean scores" width="820"></p>
@@ -141,28 +83,46 @@ These visualizations are generated from the **synthetic 250-response demonstrati
 <p><img src="analysis_outputs/visualizations/spearman_correlation_matrix.svg" alt="Spearman correlation matrix" width="820"></p>
 
 ### Respondent Profile
-<p><img src="analysis_outputs/visualizations/respondent_gender_profile.svg" alt="Synthetic respondent gender profile" width="820"></p>
+<p><img src="analysis_outputs/visualizations/respondent_gender_profile.svg" alt="Respondent profile" width="820"></p>
 
 ### Multiple Regression Coefficients
-<p><img src="analysis_outputs/visualizations/regression_coefficients.svg" alt="Multiple regression coefficients" width="820"></p>
+<p><img src="analysis_outputs/visualizations/regression_coefficients.svg" alt="Regression coefficients" width="820"></p>
 
-[Open the complete visualization folder](analysis_outputs/visualizations/) · [Open the synthetic 250-response data](analysis_outputs/synthetic_250_responses.csv.gz)
-## Replace With the Real Dataset
+[Open the visualization folder](analysis_outputs/visualizations/) · [Open the analysis outputs](analysis_outputs/)
 
-1. Keep the demo CSV as a reference.
-2. Add the anonymized original respondent-level CSV.
-3. Map the real column names to the constructs in data/data_dictionary.csv.
-4. Rerun the notebook from top to bottom.
-5. Replace the synthetic figures/PDF with the reproduced outputs.
-6. Remove the demo-only warning only after verification.
+## Repository Structure
 
-Do not upload names, emails, phone numbers, exact addresses, student IDs, or other direct identifiers.
+- **questionnaire/** - research instrument
+- **data/** - variable definitions and data documentation
+- **notebooks/** - reproducible Python analysis
+- **analysis_outputs/** - statistical report, summary outputs, and figures
+- **docs/** - methodology, reproducibility, and CV entry
+- **scripts/** - analysis automation
+- **requirements.txt** - Python dependencies
+- **CITATION.cff** - citation metadata
+- **LICENSE** - software license
 
-## Academic Portfolio Use
+## Reproducibility
 
-This repository demonstrates experience with quantitative business research, questionnaire-based primary research, consumer behavior, e-commerce research, Python/Pandas data preparation, correlation and regression analysis, statistical interpretation, and evidence-to-recommendation translation.
+Install the Python dependencies:
 
-See docs/CV_ENTRY.md for concise CV wording.
+```bash
+pip install -r requirements.txt
+```
+
+Run the analysis script:
+
+```bash
+python scripts/run_demo_analysis.py
+```
+
+Then open:
+
+`notebooks/purchase_intention_analysis.ipynb`
+
+## Academic Integrity and Privacy
+
+The illustrative portfolio data are clearly separated from the original project findings. Before replacing them with real observations, remove names, emails, phone numbers, exact addresses, student IDs, and other direct identifiers.
 
 ## Author
 
