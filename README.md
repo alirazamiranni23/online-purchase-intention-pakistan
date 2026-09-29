@@ -110,37 +110,43 @@ Then open notebooks/purchase_intention_analysis.ipynb.
 
 A fully completed **synthetic** 250-response dataset is included for demonstration. Every respondent has values for all 40 Likert items. The dataset is synthetic and must not be presented as the original study data.
 
-- Demo response dataset: [demo/synthetic_250_responses.csv.gz](demo/synthetic_250_responses.csv.gz)
-- Demo analysis report: [demo/analysis_report.md](demo/analysis_report.md)
-- Demo analysis summary: [demo/analysis_summary.json](demo/analysis_summary.json)
+- Demo response dataset: [analysis_outputs/synthetic_250_responses.csv.gz](analysis_outputs/synthetic_250_responses.csv.gz)
+- Demo analysis report: [analysis_outputs/analysis_report.md](analysis_outputs/analysis_report.md)
+- Demo analysis summary: [analysis_outputs/analysis_summary.json](analysis_outputs/analysis_summary.json)
 
 The conversation package also includes a 250-page visual PDF with each synthetic respondent's questionnaire shown with randomly selected options marked.
 
 ## Final Data Visualization Gallery
 
-The complete synthetic 250-response analysis is visualized in [`demo/visualizations/`](demo/visualizations/):
+The complete synthetic 250-response analysis is visualized in [`analysis_outputs/visualizations/`](analysis_outputs/visualizations/):
 
-- [Construct mean scores](demo/visualizations/construct_mean_scores.svg)
-- [Purchase intention distribution](demo/visualizations/purchase_intention_distribution.svg)
-- [Spearman correlation matrix](demo/visualizations/spearman_correlation_matrix.svg)
-- [Synthetic respondent profile](demo/visualizations/respondent_gender_profile.svg)
-- [Multiple regression coefficients](demo/visualizations/regression_coefficients.svg)
-- [Visualization index](demo/visualizations/README.md)
+- [Construct mean scores](analysis_outputs/visualizations/construct_mean_scores.svg)
+- [Purchase intention distribution](analysis_outputs/visualizations/purchase_intention_distribution.svg)
+- [Spearman correlation matrix](analysis_outputs/visualizations/spearman_correlation_matrix.svg)
+- [Synthetic respondent profile](analysis_outputs/visualizations/respondent_gender_profile.svg)
+- [Multiple regression coefficients](analysis_outputs/visualizations/regression_coefficients.svg)
+- [Visualization index](analysis_outputs/visualizations/README.md)
 
 ## Final Visualization Gallery
 
-The repository now contains a dedicated visualization folder with the main portfolio charts:
+These visualizations are generated from the **synthetic 250-response demonstration dataset** currently in the repository. They are included to show how the finished research portfolio will look once the real survey data are inserted.
 
-| Visualization | Preview |
-|---|---|
-| Construct mean scores | [Open SVG](demo/visualizations/construct_mean_scores.svg) |
-| Purchase intention distribution | [Open SVG](demo/visualizations/purchase_intention_distribution.svg) |
-| Spearman correlation matrix | [Open SVG](demo/visualizations/spearman_correlation_matrix.svg) |
-| Respondent gender profile | [Open SVG](demo/visualizations/respondent_gender_profile.svg) |
-| Regression coefficients | [Open SVG](demo/visualizations/regression_coefficients.svg) |
+### Construct Mean Scores
+<p><img src="analysis_outputs/visualizations/construct_mean_scores.svg" alt="Construct mean scores" width="820"></p>
 
-All charts in this gallery are based on the **synthetic 250-response demonstration dataset**.
+### Purchase Intention Distribution
+<p><img src="analysis_outputs/visualizations/purchase_intention_distribution.svg" alt="Purchase intention distribution" width="820"></p>
 
+### Spearman Correlation Matrix
+<p><img src="analysis_outputs/visualizations/spearman_correlation_matrix.svg" alt="Spearman correlation matrix" width="820"></p>
+
+### Respondent Profile
+<p><img src="analysis_outputs/visualizations/respondent_gender_profile.svg" alt="Synthetic respondent gender profile" width="820"></p>
+
+### Multiple Regression Coefficients
+<p><img src="analysis_outputs/visualizations/regression_coefficients.svg" alt="Multiple regression coefficients" width="820"></p>
+
+[Open the complete visualization folder](analysis_outputs/visualizations/) · [Open the synthetic 250-response data](analysis_outputs/synthetic_250_responses.csv.gz)
 ## Replace With the Real Dataset
 
 1. Keep the demo CSV as a reference.
