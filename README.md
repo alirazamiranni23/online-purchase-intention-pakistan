@@ -50,19 +50,19 @@ The included synthetic dataset contains **300 rows** with Likert-style construct
 
 ### Regression
 
-![Synthetic demo regression results](figures/regression_results.png)
+![Synthetic demo regression results](figures/regression_results.svg)
 
 ### Correlation matrix
 
-![Synthetic demo correlation matrix](figures/correlation_matrix.png)
+![Synthetic demo correlation matrix](figures/correlation_matrix.svg)
 
 ### Variable distributions
 
-![Synthetic demo variable distributions](figures/variable_distributions.png)
+![Synthetic demo variable distributions](figures/variable_distributions.svg)
 
 ### Questionnaire preview
 
-![Questionnaire preview](figures/questionnaire_preview.png)
+![Questionnaire preview](figures/questionnaire_preview.svg)
 
 Full questionnaire: [questionnaire/questionnaire.pdf](questionnaire/questionnaire.pdf)
 
@@ -86,10 +86,10 @@ These values are preserved as **owner-reported original project results**. They 
 - notebooks/purchase_intention_analysis.ipynb
 - analysis/regression_results.pdf
 - analysis/demo_results.json
-- figures/correlation_matrix.png
-- figures/regression_results.png
-- figures/variable_distributions.png
-- figures/questionnaire_preview.png
+- figures/correlation_matrix.svg
+- figures/regression_results.svg
+- figures/variable_distributions.svg
+- figures/questionnaire_preview.svg
 - docs/methodology.md
 - docs/reproducibility.md
 - docs/research_summary.pdf
