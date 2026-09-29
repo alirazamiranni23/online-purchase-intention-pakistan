@@ -106,6 +106,16 @@ python scripts/run_demo_analysis.py
 
 Then open notebooks/purchase_intention_analysis.ipynb.
 
+## Synthetic 250-Response Walkthrough
+
+A fully completed **synthetic** 250-response dataset is included for demonstration. Every respondent has values for all 40 Likert items. The dataset is synthetic and must not be presented as the original study data.
+
+- Demo response dataset: [demo/synthetic_250_responses.csv.gz](demo/synthetic_250_responses.csv.gz)
+- Demo analysis report: [demo/analysis_report.md](demo/analysis_report.md)
+- Demo analysis summary: [demo/analysis_summary.json](demo/analysis_summary.json)
+
+The conversation package also includes a 250-page visual PDF with each synthetic respondent's questionnaire shown with randomly selected options marked.
+
 ## Replace With the Real Dataset
 
 1. Keep the demo CSV as a reference.
